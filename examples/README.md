@@ -1,0 +1,1 @@
+Copy "files" folder into ~/protwis_vagrant/shared/[MEDIA]/.
