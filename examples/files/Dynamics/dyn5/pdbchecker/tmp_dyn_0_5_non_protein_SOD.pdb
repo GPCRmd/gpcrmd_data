@@ -1,0 +1,33 @@
+CRYST1    0.000    0.000    0.000  90.00  90.00  90.00 P 1           1
+ATOM      1  SOD SOD H1220       0.480  -2.280   1.480  0.00  0.00      HETA S 
+ATOM      2  SOD SOD S   1      20.069 -26.210  46.160  0.00  0.00      SOD  Na 
+ATOM      3  SOD SOD S   2     -32.069 -24.590 -26.520  0.00  0.00      SOD  Na
+ATOM      4  SOD SOD S   3      -1.151 -36.191  50.058  0.00  0.00      SOD  Na
+ATOM      5  SOD SOD S   4      41.979 -11.940  47.140  0.00  0.00      SOD  Na
+ATOM      6  SOD SOD S   5      41.060  24.460 -16.270  0.00  0.00      SOD  Na
+ATOM      7  SOD SOD S   6     -33.459   3.350 -14.068  0.00  0.00      SOD  Na
+ATOM      8  SOD SOD S   7     -22.130 -20.289 -36.778  0.00  0.00      SOD  Na
+ATOM      9  SOD SOD S   8       7.540  15.949 -21.778  0.00  0.00      SOD  Na
+ATOM     10  SOD SOD S   9      38.589  28.620  29.750  0.00  0.00      SOD  Na
+ATOM     11  SOD SOD S  10      39.730  -9.401  42.748  0.00  0.00      SOD  Na
+ATOM     12  SOD SOD S  11      17.239 -39.320  44.098  0.00  0.00      SOD  Na
+ATOM     13  SOD SOD S  12     -30.249 -38.801 -30.438  0.00  0.00      SOD  Na
+ATOM     14  SOD SOD S  13      40.269  35.390  50.258  0.00  0.00      SOD  Na
+ATOM     15  SOD SOD S  14     -10.340  25.507 -28.150  0.00  0.00      SOD  Na
+ATOM     16  SOD SOD S  15      41.670 -41.951 -33.090  0.00  0.00      SOD  Na
+ATOM     17  SOD SOD S  16      23.030  24.360 -15.450  0.00  0.00      SOD  Na
+ATOM     18  SOD SOD S  17      11.660  27.131 -28.058  0.00  0.00      SOD  Na
+ATOM     19  SOD SOD S  18     -21.999  34.060  24.160  0.00  0.00      SOD  Na
+ATOM     20  SOD SOD S  19      -0.210 -33.930 -16.630  0.00  0.00      SOD  Na
+ATOM     21  SOD SOD S  20     -27.260  11.310  42.790  0.00  0.00      SOD  Na
+ATOM     22  SOD SOD S  21       0.860  -9.260  39.958  0.00  0.00      SOD  Na
+ATOM     23  SOD SOD S  22      23.550 -35.100 -46.498  0.00  0.00      SOD  Na
+ATOM     24  SOD SOD S  23       9.980  19.140  49.180  0.00  0.00      SOD  Na
+ATOM     25  SOD SOD S  24     -13.688 -40.499  25.198  0.00  0.00      SOD  Na
+ATOM     26  SOD SOD S  25      15.539   4.110 -28.510  0.00  0.00      SOD  Na
+ATOM     27  SOD SOD S  26       2.760 -29.158 -48.260  0.00  0.00      SOD  Na
+ATOM     28  SOD SOD S  27      35.219   4.922 -15.428  0.00  0.00      SOD  Na
+ATOM     29  SOD SOD S  28      -1.090 -42.480 -20.940  0.00  0.00      SOD  Na
+ATOM     30  SOD SOD S  29     -21.890  11.260  46.120  0.00  0.00      SOD  Na
+ATOM     31  SOD SOD S  30     -33.840 -11.921 -15.978  0.00  0.00      SOD  Na
+END

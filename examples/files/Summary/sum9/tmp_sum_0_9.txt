@@ -1,0 +1,94 @@
+	PROTEINS INVOLVED IN THE SUBMISSION 9
+
+		PROTEIN #1
+		Name:  Adenosine receptor A2a
+		Species:  Homo sapiens (HUMAN)
+		UniProtKB AC:  P29274
+		Isoform:  1
+
+	SMALL MOLECULES INVOLVED IN THE SUBMISSION 9
+
+		SMALL MOLECULE #1
+		Name:  chloride
+		Net charge:  -1	PubChem cid:  312
+		Bulk Molecule:  Bulk ions
+
+		SMALL MOLECULE #2
+		Name:  sodium ion
+		Net charge:  1	PubChem cid:  923
+		Bulk Molecule:  Bulk ions
+
+		SMALL MOLECULE #3
+		Name:  cholesterol
+		Net charge:  0	PubChem cid:  5997
+		Bulk Molecule:  Orthosteric ligand
+
+		SMALL MOLECULE #4
+		Name:  1,2-Dioleoyl-sn-Glycero-3-Phosphocholine
+		Net charge:  0	PubChem cid:  10350317
+		Bulk Molecule:  Bulk lipids
+
+		SMALL MOLECULE #5
+		Name:  108861-07-0
+		Net charge:  0	PubChem cid:  130969
+		Bulk Molecule:  Bulk lipids
+
+		SMALL MOLECULE #6
+		Name:  816-94-4
+		Net charge:  0	PubChem cid:  94190
+		Bulk Molecule:  Bulk lipids
+
+		SMALL MOLECULE #7
+		Name:  PC(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))
+		Net charge:  0	PubChem cid:  24778876
+		Bulk Molecule:  Bulk lipids
+
+		SMALL MOLECULE #8
+		Name:  W-203937
+		Net charge:  0	PubChem cid:  92132401
+		Bulk Molecule:  Bulk lipids
+
+		SMALL MOLECULE #9
+		Name:  water
+		Net charge:  0	PubChem cid:  962
+		Bulk Molecule:  Bulk waters
+
+	MODEL INVOLVED IN THE SUBMISSION 9
+
+		MODEL ID:  4
+		Name:  A2a Adenosine receptor & Cholesterol
+		PDB ID:  
+		Source type:  X-ray
+		Description:  Cholesterol molecule bound to the A2a Adenosine Receptor orthosteric site
+
+	SIMULATION SUBMITTED IN THE SUBMISSION 9
+
+		SIMULATION COMPONENTS
+
+		PROTEIN #1	Name:  Adenosine receptor A2a	UniProtKB AC:  P29274
+
+		Resname:  SDPC	Molecule:  1	Num of mol:  44    	Type:  Lipid	Cryst:  No   Name:  PC(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))
+		Resname:  CLA	Molecule:  2	Num of mol:  75    	Type:  Ions	Cryst:  No   Name:  chloride
+		Resname:  SOD	Molecule:  3	Num of mol:  65    	Type:  Ions	Cryst:  No   Name:  sodium ion
+		Resname:  DPPC	Molecule:  4	Num of mol:  48    	Type:  Lipid	Cryst:  No   Name:  108861-07-0
+		Resname:  SM18	Molecule:  5	Num of mol:  79    	Type:  Lipid	Cryst:  No   Name:  W-203937
+		Resname:  DSPC	Molecule:  6	Num of mol:  18    	Type:  Lipid	Cryst:  No   Name:  816-94-4
+		Resname:  CHL1	Molecule:  7	Num of mol:  112    	Type:  Ligand	Cryst:  Yes  Name:  cholesterol
+		Resname:  DOPC	Molecule:  8	Num of mol:  36    	Type:  Lipid	Cryst:  No   Name:  1,2-Dioleoyl-sn-Glycero-3-Phosphocholine
+		Resname:  TIP3	Molecule:  9	Num of mol:  22908    	Type:  Water	Cryst:  No   Name:  water
+
+		SIMULATION DETAILS
+ 
+		Method: Molecular Mechanics                               
+		Software: ACEMD
+		Software version: 3203m
+		Force Field: CHARMM
+		FF version: 36
+		Assay Type: Orthosteric (un)binding                                     
+		Membrane type: Heterogeneous       
+		Solvent type: TIP3P               
+		Solvent num: 22908
+		Num. atoms: 112357
+		Time step: 4.0
+		Delta: 0.1
+		Additional Info: 

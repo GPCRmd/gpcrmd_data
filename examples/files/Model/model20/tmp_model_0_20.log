@@ -1,0 +1,34 @@
+Splitting into protein and non-protein residues...
+Splitting non-protein residues by residue names...
+1 resname(s) found: EJ4
+Checking non-protein residues naming consistency...
+Found 1 EJ4 molecule(s).
+
+Checking non-protein residues topology...
+
+Loading mol #1, mol ID 5020.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #1 resname EJ4, mol ID 5020.
+WARNING: Cannot assign bond orders from molecule file template. Checking only non-hydrogen connectivity.
+Stoichiometric formula check (without charge): FAIL: Molecules have different Stoichiometric formulas C26H26N2O3 C58.
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+Accepted unusual valence(s): C(1); C(2); C(3)
+Generating Standard InChI for PDB molecule ... 
+Accepted unusual valence(s): C(1); C(2); C(3)
+Main chain InChI check: FAIL: Molecules have diferent scaffolds
+29-19-8-7-15-11-20-26(30)12-17-16-3-1-2-4-18(16)27-22(17)24-25(26,21(15)23(19)31-24)9-10-28(20)13-14-5-6-14 1-24-38-33(5)36(8)42-44-39(38)30-51(20)43-37(9)40-34(6)31(3)32(4)35(7)41(40)45(43)47(12,13)57(25-2)52(21,46(42,10)11)53(22,48(14,15)49(16,17)58(44,51)57)50(18,19)54(23)55(26-27-55)56(54)28-29-56.
+
+##############################
+
+
+END
+

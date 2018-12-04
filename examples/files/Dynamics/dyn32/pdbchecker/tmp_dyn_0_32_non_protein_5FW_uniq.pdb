@@ -1,0 +1,35 @@
+CRYST1    0.000    0.000    0.000  90.00  90.00  90.00 P 1           1
+ATOM      1  CAH 5FW H 601     -12.230   2.160   4.880  0.00  0.00      HETA C
+ATOM      2  CAK 5FW H 601     -13.230   1.330   5.390  0.00  0.00      HETA C
+ATOM      3  HAK 5FW H 601     -12.980   0.800   6.300  0.00  0.00      HETA H
+ATOM      4  CAM 5FW H 601     -14.540   1.360   4.860  0.00  0.00      HETA C
+ATOM      5  CAO 5FW H 601     -14.860   2.090   3.700  0.00  0.00      HETA C
+ATOM      6  OAC 5FW H 601     -16.160   2.070   3.180  0.00  0.00      HETA O
+ATOM      7  HAC 5FW H 601     -16.280   2.770   2.540  0.00  0.00      HETA H
+ATOM      8  CAN 5FW H 601     -13.930   2.960   3.220  0.00  0.00      HETA C
+ATOM      9  CAL 5FW H 601     -12.650   2.910   3.720  0.00  0.00      HETA C
+ATOM     10  HAN 5FW H 601     -14.130   3.540   2.330  0.00  0.00      HETA H
+ATOM     11  HAL 5FW H 601     -11.860   3.510   3.290  0.00  0.00      HETA H
+ATOM     12  OAB 5FW H 601     -15.470   0.480   5.440  0.00  0.00      HETA O
+ATOM     13  HAB 5FW H 601     -16.210   0.500   4.830  0.00  0.00      HETA H
+ATOM     14  CAE 5FW H 601     -10.810   2.210   5.590  0.00  0.00      HETA C
+ATOM     15  CAF 5FW H 601     -11.000   2.950   6.870  0.00  0.00      HETA C
+ATOM     16  HAE 5FW H 601     -10.460   1.170   5.750  0.00  0.00      HETA H
+ATOM     17 HAF2 5FW H 601     -11.680   2.360   7.500  0.00  0.00      HETA H
+ATOM     18 HAF1 5FW H 601     -11.530   3.870   6.610  0.00  0.00      HETA H
+ATOM     19  NAD 5FW H 601      -9.870   3.410   7.810  0.00  0.00      HETA N
+ATOM     20  CAG 5FW H 601     -10.360   3.800   9.200  0.00  0.00      HETA C
+ATOM     21 HAD1 5FW H 601      -9.360   4.190   7.420  0.00  0.00      HETA H
+ATOM     22 HAD2 5FW H 601      -9.220   2.650   7.940  0.00  0.00      HETA H
+ATOM     23  HAG 5FW H 601      -9.410   4.020   9.740  0.00  0.00      HETA H
+ATOM     24  CAJ 5FW H 601     -10.900   2.650  10.120  0.00  0.00      HETA C
+ATOM     25 HAJ3 5FW H 601     -11.810   2.250   9.620  0.00  0.00      HETA H
+ATOM     26 HAJ2 5FW H 601     -11.150   3.070  11.110  0.00  0.00      HETA H
+ATOM     27 HAJ1 5FW H 601     -10.190   1.790  10.140  0.00  0.00      HETA H
+ATOM     28  CAI 5FW H 601     -11.240   5.010   9.130  0.00  0.00      HETA C
+ATOM     29 HAI2 5FW H 601     -11.580   5.460  10.090  0.00  0.00      HETA H
+ATOM     30 HAI3 5FW H 601     -12.220   4.860   8.630  0.00  0.00      HETA H
+ATOM     31 HAI1 5FW H 601     -10.830   5.860   8.560  0.00  0.00      HETA H
+ATOM     32  OAA 5FW H 601      -9.820   2.780   4.690  0.00  0.00      HETA O
+ATOM     33  HAA 5FW H 601      -9.720   3.730   4.740  0.00  0.00      HETA H
+END

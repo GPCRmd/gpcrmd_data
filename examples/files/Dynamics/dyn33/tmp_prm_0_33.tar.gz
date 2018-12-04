@@ -1,0 +1,10 @@
+components:
+Resname POPC https://pubchem.ncbi.nlm.nih.gov/compound/5497103#section=Top
+resname SOD https://pubchem.ncbi.nlm.nih.gov/compound/5234
+resname CLA https://pubchem.ncbi.nlm.nih.gov/compound/5234
+water (TIP3) https://pubchem.ncbi.nlm.nih.gov/compound/962
+isoproterenol https://pubchem.ncbi.nlm.nih.gov/compound/isoproterenol#section=Top
+uniprot:
+http://www.uniprot.org/uniprot/P07550
+FASTA sequence:
+EVWVVGMGIVMSLIVLAIVFGNVLVITAIAKFERLQTVTNYFITSLACADLVMGLAVVPFGAAHILMKMWTFGNFWCEFWTSIDVLCVTASIETLCVIAVDRYFAITSPFKYQSLLTKNKARVIILMVWIVSGLTSFLPIQMHWYRATHQEAINCYANETCCDFFTNQAYAIASSIVSFYVPLVIMVFVYSRVFQEAKRQLQKIDKSELRRSSKFCLKEHKALKTLGIIMGTFTLCWLPFFIVNIVHVIQDNLIRKEVYILLNWIGYVNSGFNPLIYCRSPDFRIAFQELLC

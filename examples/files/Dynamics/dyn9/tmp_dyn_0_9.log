@@ -1,0 +1,236 @@
+Splitting into protein and non-protein residues...
+Splitting non-protein residues by residue names...
+9 resname(s) found: TIP3, SOD, DSPC, CHL1, SM18, SDPC, DPPC, DOPC, CLA
+Checking non-protein residues naming consistency...
+Found 22908 TIP3 molecule(s).
+Found 65 SOD molecule(s).
+Found 18 DSPC molecule(s).
+Found 112 CHL1 molecule(s).
+Found 79 SM18 molecule(s).
+Found 44 SDPC molecule(s).
+Found 48 DPPC molecule(s).
+Found 36 DOPC molecule(s).
+Found 75 CLA molecule(s).
+
+Checking non-protein residues topology...
+
+Loading mol #1, mol ID 5017.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #1 resname CLA, mol ID 5017.
+WARNING: Cannot assign bond orders from molecule file template. Checking only non-hydrogen connectivity.
+Stoichiometric formula check (without charge): FAIL: Molecules have different Stoichiometric formulas Cl C.
+Generating Fixed H InChI for molecule file ... 
+Proton(s) added/removed
+Generating Standard InChI for molecule file ... 
+Proton(s) added/removed
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+
+##############################
+
+Loading mol #2, mol ID 5016.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #2 resname SOD, mol ID 5016.
+WARNING: Cannot assign bond orders from molecule file template. Checking only non-hydrogen connectivity.
+Stoichiometric formula check (without charge): FAIL: Molecules have different Stoichiometric formulas Na N.
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+
+##############################
+
+Loading mol #3, mol ID 5022.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #3 resname CHL1, mol ID 5022.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+Loading mol #4, mol ID 5023.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #4 resname DOPC, mol ID 5023.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+Loading mol #5, mol ID 5024.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #5 resname DPPC, mol ID 5024.
+WARNING: Cannot assign bond orders from molecule file template. Checking only non-hydrogen connectivity.
+Stoichiometric formula check (without charge): FAIL: Molecules have different Stoichiometric formulas C36H74N3O6P C40H80NO8P.
+Generating Fixed H InChI for molecule file ... 
+Omitted undefined stereo
+Generating Standard InChI for molecule file ... 
+Omitted undefined stereo
+Generating Fixed H InChI for PDB molecule ... 
+Accepted unusual valence(s): N(4); P(4); O(1); C(3)
+Generating Standard InChI for PDB molecule ... 
+Accepted unusual valence(s): N(4); P(4); O(1); C(3)
+Main chain InChI check: FAIL: Molecules have diferent scaffolds
+1-6-8-10-12-14-16-18-20-22-24-26-28-35(40)37-32-34(33-45-46(42,43)44-31-30-39(3,4)5)38-36(41)29-27-25-23-21-19-17-15-13-11-9-7-2 1-6-8-10-12-14-16-18-20-22-24-26-28-30-32-39(42)46-36-38(37-48-50(44,45)47-35-34-41(3,4)5)49-40(43)33-31-29-27-25-23-21-19-17-15-13-11-9-7-2.
+
+##############################
+
+Loading mol #6, mol ID 5025.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #6 resname DSPC, mol ID 5025.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+Loading mol #7, mol ID 5026.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #7 resname SDPC, mol ID 5026.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+Loading mol #8, mol ID 5027.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #8 resname SM18, mol ID 5027.
+WARNING: Cannot assign bond orders from molecule file template. Checking only non-hydrogen connectivity.
+Stoichiometric formula check (without charge): FAIL: Molecules have different Stoichiometric formulas C39H79N2O6P C41H83N2O6P.
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+Accepted unusual valence(s): N(4); P(4); O(1); C(3)
+Generating Standard InChI for PDB molecule ... 
+Accepted unusual valence(s): N(4); P(4); O(1); C(3)
+Main chain InChI check: FAIL: Molecules have diferent scaffolds
+1-6-8-10-12-14-16-18-20-22-24-26-28-30-32-38(42)37(36-47-48(44,45)46-35-34-41(3,4)5)40-39(43)33-31-29-27-25-23-21-19-17-15-13-11-9-7-2 1-6-8-10-12-14-16-18-20-21-23-25-27-29-31-33-35-41(45)42-39(38-49-50(46,47)48-37-36-43(3,4)5)40(44)34-32-30-28-26-24-22-19-17-15-13-11-9-7-2.
+
+##############################
+
+Loading mol #9, mol ID 5019.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #9 resname TIP3, mol ID 5019.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+
+Splitting model PDB file into protein and non-protein residues...
+
+
+Checking PDB protein model vs simulation assembly coherence...
+
+Checking PDB non-protein model vs simulation assembly coherence...
+
+END
+

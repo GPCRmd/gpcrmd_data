@@ -1,0 +1,35 @@
+Splitting into protein and non-protein residues...
+Splitting non-protein residues by residue names...
+1 resname(s) found: CHL1
+Checking non-protein residues naming consistency...
+Found 1 CHL1 molecule(s).
+
+Checking non-protein residues topology...
+
+Loading mol #3, mol ID 5022.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #3 resname CHL1, mol ID 5022.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+
+END
+

@@ -1,0 +1,70 @@
+	PROTEINS INVOLVED IN THE SUBMISSION 32
+
+		PROTEIN #1
+		Name:  Beta-2 adrenergic receptor
+		Species:  Homo sapiens (HUMAN)
+		UniProtKB AC:  P07550
+		Isoform:  1
+
+	SMALL MOLECULES INVOLVED IN THE SUBMISSION 32
+
+		SMALL MOLECULE #1
+		Name:  chloride
+		Net charge:  -1	PubChem cid:  312
+		Bulk Molecule:  Bulk ions
+
+		SMALL MOLECULE #2
+		Name:  sodium ion
+		Net charge:  1	PubChem cid:  923
+		Bulk Molecule:  Bulk ions
+
+		SMALL MOLECULE #3
+		Name:  POPC
+		Net charge:  0	PubChem cid:  5497103
+		Bulk Molecule:  Bulk lipids
+
+		SMALL MOLECULE #4
+		Name:  Isonorene
+		Net charge:  0	PubChem cid:  3779
+		Crystalized Molecule:  Orthosteric ligand
+
+		SMALL MOLECULE #5
+		Name:  water
+		Net charge:  0	PubChem cid:  962
+		Bulk Molecule:  Bulk waters
+
+	MODEL INVOLVED IN THE SUBMISSION 32
+
+		MODEL ID:  6
+		Name:  Beta 2 adrenergic receptor and isoproterenol
+		PDB ID:  2R4R
+		Source type:  X-ray
+		Description:  Beta 2 adrenergic receptor with agonist
+
+	SIMULATION SUBMITTED IN THE SUBMISSION 32
+
+		SIMULATION COMPONENTS
+
+		PROTEIN #1	Name:  Beta-2 adrenergic receptor	UniProtKB AC:  P07550
+
+		Resname:  5FW	Molecule:  1	Num of mol:  1    	Type:  Ligand	Cryst:  Yes  Name:  Isonorene
+		Resname:  SOD	Molecule:  2	Num of mol:  34    	Type:  Ions	Cryst:  No   Name:  sodium ion
+		Resname:  POPC	Molecule:  3	Num of mol:  143    	Type:  Lipid	Cryst:  No   Name:  POPC
+		Resname:  TIP3	Molecule:  4	Num of mol:  12338    	Type:  Water	Cryst:  No   Name:  water
+		Resname:  CLA	Molecule:  5	Num of mol:  43    	Type:  Ions	Cryst:  No   Name:  chloride
+
+		SIMULATION DETAILS
+ 
+		Method: Molecular Mechanics                               
+		Software: ACEMD
+		Software version: 3203
+		Force Field: CHARMM
+		FF version: 36
+		Assay Type: Activation\Inactivation                                     
+		Membrane type: Homogeneous         
+		Solvent type: TIP3P               
+		Solvent num: 12338
+		Num. atoms: 61061
+		Time step: 4.0
+		Delta: 0.1
+		Additional Info: 

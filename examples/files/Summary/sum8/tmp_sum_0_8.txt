@@ -1,0 +1,70 @@
+	PROTEINS INVOLVED IN THE SUBMISSION 8
+
+		PROTEIN #1
+		Name:  Beta-2 adrenergic receptor
+		Species:  Homo sapiens (HUMAN)
+		UniProtKB AC:  P07550
+		Isoform:  1
+
+	SMALL MOLECULES INVOLVED IN THE SUBMISSION 8
+
+		SMALL MOLECULE #1
+		Name:  sodium ion
+		Net charge:  1	PubChem cid:  923
+		Bulk Molecule:  Bulk ions
+
+		SMALL MOLECULE #2
+		Name:  chloride
+		Net charge:  -1	PubChem cid:  312
+		Bulk Molecule:  Bulk ions
+
+		SMALL MOLECULE #3
+		Name:  POPC
+		Net charge:  0	PubChem cid:  5497103
+		Bulk Molecule:  Bulk lipids
+
+		SMALL MOLECULE #4
+		Name:  water
+		Net charge:  0	PubChem cid:  962
+		Bulk Molecule:  Bulk waters
+
+		SMALL MOLECULE #5
+		Name:  UNII-6Q9080LN3O
+		Net charge:  0	PubChem cid:  13023332
+		Bulk Molecule:  Orthosteric ligand
+
+	MODEL INVOLVED IN THE SUBMISSION 8
+
+		MODEL ID:  3
+		Name:  Beta 2 Adrenergic Receptor & Carazolol
+		PDB ID:  
+		Source type:  X-ray
+		Description:  Carazolol bound to the Beta 2 Adrenergic Receptor orthosteric site
+
+	SIMULATION SUBMITTED IN THE SUBMISSION 8
+
+		SIMULATION COMPONENTS
+
+		PROTEIN #1	Name:  Beta-2 adrenergic receptor	UniProtKB AC:  P07550
+
+		Resname:  CAU	Molecule:  1	Num of mol:  1    	Type:  Ligand	Cryst:  Yes  Name:  UNII-6Q9080LN3O
+		Resname:  SOD	Molecule:  2	Num of mol:  None    	Type:  Ions	Cryst:  No   Name:  sodium ion
+		Resname:  CLA	Molecule:  3	Num of mol:  None    	Type:  Ions	Cryst:  No   Name:  chloride
+		Resname:  TIP3	Molecule:  4	Num of mol:  None    	Type:  Water	Cryst:  No   Name:  water
+		Resname:  POPC	Molecule:  5	Num of mol:  None    	Type:  Lipid	Cryst:  No   Name:  POPC
+
+		SIMULATION DETAILS
+ 
+		Method: Molecular Mechanics                               
+		Software: ACEMD
+		Software version: 3203m
+		Force Field: CHARMM
+		FF version: 36
+		Assay Type: Activation\Inactivation                                     
+		Membrane type: Homogeneous         
+		Solvent type: TIP3P               
+		Solvent num: None
+		Num. atoms: None
+		Time step: 4.0
+		Delta: 0.1
+		Additional Info: 

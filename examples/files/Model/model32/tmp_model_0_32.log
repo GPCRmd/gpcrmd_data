@@ -1,0 +1,35 @@
+Splitting into protein and non-protein residues...
+Splitting non-protein residues by residue names...
+1 resname(s) found: 5FW
+Checking non-protein residues naming consistency...
+Found 1 5FW molecule(s).
+
+Checking non-protein residues topology...
+
+Loading mol #4, mol ID 908.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #4 resname 5FW, mol ID 908.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+
+END
+

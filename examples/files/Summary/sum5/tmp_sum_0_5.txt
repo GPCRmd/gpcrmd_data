@@ -1,0 +1,72 @@
+	PROTEINS INVOLVED IN THE SUBMISSION 5
+
+		PROTEIN #1	(Mutant Protein)
+		Name:  Delta-type opioid receptor
+		Species:  Homo sapiens (HUMAN)
+		UniProtKB AC:  P41143
+		Isoform:  1
+		Mutations:
+			Resid: 37	Resletter from: P	Resletter to: S
+
+	SMALL MOLECULES INVOLVED IN THE SUBMISSION 5
+
+		SMALL MOLECULE #1
+		Name:  sodium ion
+		Net charge:  1	PubChem cid:  923
+		Bulk Molecule:  Crystallographic ions
+
+		SMALL MOLECULE #2
+		Name:  chloride
+		Net charge:  -1	PubChem cid:  312
+		Bulk Molecule:  Crystallographic ions
+
+		SMALL MOLECULE #3
+		Name:  POPC
+		Net charge:  0	PubChem cid:  5497103
+		Bulk Molecule:  Bulk lipids
+
+		SMALL MOLECULE #4
+		Name:  water
+		Net charge:  0	PubChem cid:  962
+		Bulk Molecule:  Bulk waters
+
+		SMALL MOLECULE #5
+		Name:  Naltrindole
+		Net charge:  0	PubChem cid:  5497186
+		Bulk Molecule:  Orthosteric ligand
+
+	MODEL INVOLVED IN THE SUBMISSION 5
+
+		MODEL ID:  1
+		Name:  Delta Opioid with Naltrindole
+		PDB ID:  
+		Source type:  X-ray
+		Description:  Delta Opioid with Naltrindole
+
+	SIMULATION SUBMITTED IN THE SUBMISSION 5
+
+		SIMULATION COMPONENTS
+
+		PROTEIN #1	Name:  Delta-type opioid receptor	UniProtKB AC:  P41143	(Mutant Protein)
+
+		Resname:  EJ4	Molecule:  1	Num of mol:  1    	Type:  Ligand	Cryst:  Yes  Name:  Naltrindole
+		Resname:  POPC	Molecule:  2	Num of mol:  160    	Type:  Lipid	Cryst:  No   Name:  POPC
+		Resname:  CLA	Molecule:  3	Num of mol:  47    	Type:  Ions	Cryst:  Yes  Name:  chloride
+		Resname:  SOD	Molecule:  4	Num of mol:  31    	Type:  Ions	Cryst:  Yes  Name:  sodium ion
+		Resname:  TIP3	Molecule:  5	Num of mol:  13363    	Type:  Water	Cryst:  No   Name:  water
+
+		SIMULATION DETAILS
+ 
+		Method: Molecular Mechanics                               
+		Software: ACEMD
+		Software version: 3203
+		Force Field: CHARMM
+		FF version: 36
+		Assay Type: Activation\Inactivation                                     
+		Membrane type: Homogeneous         
+		Solvent type: TIP3P               
+		Solvent num: 13363
+		Num. atoms: 66513
+		Time step: 4.0
+		Delta: 0.1
+		Additional Info: 

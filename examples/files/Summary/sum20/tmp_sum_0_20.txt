@@ -1,0 +1,70 @@
+	PROTEINS INVOLVED IN THE SUBMISSION 20
+
+		PROTEIN #1
+		Name:  Delta-type opioid receptor
+		Species:  Homo sapiens (HUMAN)
+		UniProtKB AC:  P41143
+		Isoform:  1
+
+	SMALL MOLECULES INVOLVED IN THE SUBMISSION 20
+
+		SMALL MOLECULE #1
+		Name:  Naltrindole
+		Net charge:  0	PubChem cid:  5497186
+		Bulk Molecule:  Orthosteric ligand
+
+		SMALL MOLECULE #2
+		Name:  POPC
+		Net charge:  0	PubChem cid:  5497103
+		Bulk Molecule:  Bulk lipids
+
+		SMALL MOLECULE #3
+		Name:  water
+		Net charge:  0	PubChem cid:  962
+		Bulk Molecule:  Bulk waters
+
+		SMALL MOLECULE #4
+		Name:  sodium ion
+		Net charge:  1	PubChem cid:  923
+		Bulk Molecule:  Bulk ions
+
+		SMALL MOLECULE #5
+		Name:  chloride
+		Net charge:  -1	PubChem cid:  312
+		Bulk Molecule:  Bulk ions
+
+	MODEL INVOLVED IN THE SUBMISSION 20
+
+		MODEL ID:  5
+		Name:  delta opioid receptor (human)
+		PDB ID:  4N6H
+		Source type:  X-ray
+		Description:  cokolwiek
+
+	SIMULATION SUBMITTED IN THE SUBMISSION 20
+
+		SIMULATION COMPONENTS
+
+		PROTEIN #1	Name:  Delta-type opioid receptor	UniProtKB AC:  P41143
+
+		Resname:  EJ4	Molecule:  1	Num of mol:  1    	Type:  Ligand	Cryst:  Yes  Name:  Naltrindole
+		Resname:  TIP3	Molecule:  2	Num of mol:  13363    	Type:  Water	Cryst:  No   Name:  water
+		Resname:  CLA	Molecule:  3	Num of mol:  47    	Type:  Ions	Cryst:  No   Name:  chloride
+		Resname:  SOD	Molecule:  4	Num of mol:  31    	Type:  Ions	Cryst:  No   Name:  sodium ion
+		Resname:  POPC	Molecule:  5	Num of mol:  160    	Type:  Lipid	Cryst:  No   Name:  POPC
+
+		SIMULATION DETAILS
+ 
+		Method: Molecular Mechanics                               
+		Software: ACEMD
+		Software version: i dont know
+		Force Field: charmm
+		FF version: 36
+		Assay Type: Activation\Inactivation                                     
+		Membrane type: Homogeneous         
+		Solvent type: TIP3P               
+		Solvent num: 13363
+		Num. atoms: 66513
+		Time step: 4.0
+		Delta: 4.0
+		Additional Info: 

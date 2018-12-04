@@ -1,0 +1,142 @@
+Splitting into protein and non-protein residues...
+Splitting non-protein residues by residue names...
+5 resname(s) found: SOD, 5FW, POPC, TIP3, CLA
+Checking non-protein residues naming consistency...
+Found 34 SOD molecule(s).
+Found 1 5FW molecule(s).
+Found 143 POPC molecule(s).
+Found 12338 TIP3 molecule(s).
+Found 43 CLA molecule(s).
+
+Checking non-protein residues topology...
+
+Loading mol #1, mol ID 5016.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #1 resname SOD, mol ID 5016.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+Loading mol #2, mol ID 5017.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #2 resname CLA, mol ID 5017.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+Proton(s) added/removed
+Generating Standard InChI for molecule file ... 
+Proton(s) added/removed
+Generating Fixed H InChI for PDB molecule ... 
+Proton(s) added/removed
+Generating Standard InChI for PDB molecule ... 
+Proton(s) added/removed
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+Loading mol #3, mol ID 5018.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #3 resname POPC, mol ID 5018.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+Loading mol #4, mol ID 5019.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #4 resname TIP3, mol ID 5019.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+Loading mol #5, mol ID 908.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #5 resname 5FW, mol ID 908.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+
+Splitting model PDB file into protein and non-protein residues...
+
+
+Checking PDB protein model vs simulation assembly coherence...
+
+Checking PDB non-protein model vs simulation assembly coherence...
+
+END
+

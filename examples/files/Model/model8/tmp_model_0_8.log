@@ -1,0 +1,35 @@
+Splitting into protein and non-protein residues...
+Splitting non-protein residues by residue names...
+1 resname(s) found: CAU
+Checking non-protein residues naming consistency...
+Found 1 CAU molecule(s).
+
+Checking non-protein residues topology...
+
+Loading mol #5, mol ID 5021.
+Loading molecule...
+Assigning chirality from struture...
+Finished loading molecule.
+
+------------------------------
+
+Checking mol #5 resname CAU, mol ID 5021.
+Stoichiometric formula check (without charge): OK
+Generating Fixed H InChI for molecule file ... 
+
+Generating Standard InChI for molecule file ... 
+
+Generating Fixed H InChI for PDB molecule ... 
+
+Generating Standard InChI for PDB molecule ... 
+
+Main chain InChI check: OK
+Standard InChI check: OK
+Fixed H InChI check: OK
+OK
+
+##############################
+
+
+END
+
