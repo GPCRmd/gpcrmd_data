@@ -2,9 +2,18 @@ Copyright 2017-2020. All rights reserved.
 
 Copyright (c) 2017-2020 Ismael Rodríguez-Espigares, Mariona Torrens-Fontanals,
 Juan Manuel Ramírez-Anguita, Alejandro Varela-Rial, Jana Selent,
-Universitat Pompeu Fabra (Barcelona, Spain) and
-Institut Hospital del Mar d'Investigacions Mèdiques (Barcelona, Spain).
+Universitat Pompeu Fabra (Barcelona, Spain),
+Institut Hospital del Mar d'Investigacions Mèdiques (Barcelona, Spain),
+and members of the GPCRmd consortium.
 
+You may give attributtion to this work by citing the following article:
+
+Rodríguez-Espigares, I., Torrens-Fontanals, M., Tiemann, J.K.S. et al
+GPCRmd uncovers the dynamics of the 3D-GPCRome. Nat Methods.
+2020;17(8):777-787. doi:10.1038/s41592-020-0884-y
+
+For a full list of GPCRmd consortium members, please check the author list on the publication
+above.
 
 Licensed under the Creative Commons Attribution 4.0 International Public License
 (the "License"); you may obtain a copy of the License at
